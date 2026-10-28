@@ -1,0 +1,6 @@
+2026-08-06 15:53:34,175 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Agent\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-08-06 15:53:34,176 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Agent\AI大模型RAG与智能体开发_Agent项目\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-08-06 15:53:34,177 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Agent\AI大模型RAG与智能体开发_Agent项目\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-08-06 15:53:34,177 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Agent\AI大模型RAG与智能体开发_Agent项目\data\故障排除.txt内容已经存在知识库内，跳过
+2026-08-06 15:53:34,178 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Agent\AI大模型RAG与智能体开发_Agent项目\data\维护保养.txt内容已经存在知识库内，跳过
+2026-08-06 15:53:34,178 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Agent\AI大模型RAG与智能体开发_Agent项目\data\选购指南.txt内容已经存在知识库内，跳过

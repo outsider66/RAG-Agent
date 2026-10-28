@@ -1,0 +1,38 @@
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#4f46e5"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1e293b"
+linkColor = "#4f46e5"
+borderColor = "#e2e8f0"
+baseRadius = "0.65rem"
+buttonRadius = "0.65rem"
+showWidgetBorder = true
+
+greenColor = "#16a34a"
+redColor = "#dc2626"
+blueColor = "#2563eb"
+orangeColor = "#ea580c"
+violetColor = "#7c3aed"
+yellowColor = "#d97706"
+grayColor = "#64748b"
+
+[theme.light]
+primaryColor = "#4f46e5"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1e293b"
+linkColor = "#4f46e5"
+borderColor = "#e2e8f0"
+
+[theme.dark]
+primaryColor = "#818cf8"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#e2e8f0"
+linkColor = "#a5b4fc"
+borderColor = "#334155"

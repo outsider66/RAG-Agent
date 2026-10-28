@@ -1,0 +1,2 @@
+chat_model_name: deepseek-v4-flash-0731
+embedding_model_name: qwen3.7-text-embedding-flash
